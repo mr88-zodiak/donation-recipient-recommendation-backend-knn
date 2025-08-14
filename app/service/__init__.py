@@ -1,0 +1,1 @@
+from .rekomendasi import Rekomendasi as rekomendasiDB
